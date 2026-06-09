@@ -5,7 +5,7 @@
 # Name: Wisdom Korang
 # STUDENT ID: 2425404743
 # Email: 2425404743@live.gctu.edu.gh
-# Grader: Wisdom
+# Grader: Emma
 #
 # On my honor, Wisdom Korang, this programming assignment is my own work
 # and I have not provided this code to any other student.
